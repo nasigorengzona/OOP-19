@@ -1,5 +1,5 @@
 //made on 13th June by Erlina
-public class Employee {
+public class Employee implements Tax {
 	String name;
 	protected double salary;
 	
